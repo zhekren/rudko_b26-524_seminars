@@ -1,0 +1,3 @@
+INFO: 8
+WARNING: 8
+ERROR: 8
